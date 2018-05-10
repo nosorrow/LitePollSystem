@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "files": [
+      "constants.php"
+    ],
+    "psr-4": {
+      "System\\": "System",
+      "Adapter\\": "Adapter",
+      "App\\": "App",
+      "": ""
+    }
+  }
+}
